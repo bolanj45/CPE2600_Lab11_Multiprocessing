@@ -1,0 +1,7 @@
+*.d
+*.o
+mandel_fork
+mandel
+*.jpg
+*.mpg
+mandel_working_xcenter_offset.mp4
