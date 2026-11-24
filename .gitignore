@@ -3,6 +3,6 @@
 mandel_fork
 mandel
 *.jpg
-*.jpg\n
+*.jpg*
 *.mpg
 mandel_working_xcenter_offset.mp4
